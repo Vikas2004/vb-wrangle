@@ -4,6 +4,7 @@
 
 - The file data.txt contans the data on which the bash commands are used.
 
+- I was asked to count the number of times MENENIUS and MARCIUS spoke during the play and store the result in the respective files and also yo find the sum and store the same to another output file.
 
 ## The command used to find the Speaker 1:
 ```Powershell
